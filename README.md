@@ -7,7 +7,7 @@
 > Deploy :point_right:​ [Enlace](https://app.netlify.com/sites/semana-01-analisis-foda/settings/general)
 
 ## ***Contribución***
-` :computer: Contribuyo en este repo mi compañero @carlos-luis-alvarado `
+:computer: Contribuyo en este repo mi compañero @carlos-luis-alvarado
 
 --------------------------------------
 
